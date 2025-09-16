@@ -6,6 +6,8 @@ WARRIORS IN PINK💗
 
 
 PROJECT OVERVIEW
+
+
 Warriors In Pink is a website created as part of an academic journey. The project's purpose is to design and develop a user-friendly and compassionate online space for survivors VIOLENCE and/or ABUSE. This site's primary goal is to provide a sense of community and hope, while also offering essential resources and support.
 
 FEATURES
